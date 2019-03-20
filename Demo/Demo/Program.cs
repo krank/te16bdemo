@@ -12,6 +12,8 @@ namespace Demo
         {
             Console.WriteLine("Hello!");
 
+            Spaceship nostromo = new Spaceship();
+            nostromo.name = "Nostromo";
         }
     }
 }
